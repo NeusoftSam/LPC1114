@@ -1,0 +1,28 @@
+Dependencies for Project 'LPC1114', Target 'LPC1114': (DO NOT MODIFY !)
+F (..\src\main.c)(0x5AD83094)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_LPC1114-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="525" -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11XX.H)(0x4FF4FDF8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5AE715B3)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A5595E2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\src\gpio.h)(0x5AD007DB)
+F (..\src\gpio.c)(0x5AD007DB)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_LPC1114-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="525" -D_RTE_-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11XX.h)(0x4FF4FDF8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5AE715B3)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A5595E2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\src\gpio.h)(0x5AD007DB)
+F (RTE\Device\LPC1114FBD48_301\startup_LPC11xx.s)(0x4CF35218)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_LPC1114-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1"--list .\listings\startup_lpc11xx.lst --xref -o .\objects\startup_lpc11xx.o --depend .\objects\startup_lpc11xx.d)
+F (RTE\Device\LPC1114FBD48_301\system_LPC11xx.c)(0x4CF35218)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_LPC1114-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="525" -D_RTE_-o .\objects\system_lpc11xx.o --omf_browse .\objects\system_lpc11xx.crf --depend .\objects\system_lpc11xx.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5AE715B3)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h)(0x5A5595E2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E1FE2)
+I (D:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)

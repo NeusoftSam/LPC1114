@@ -1,0 +1,9 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\gpio.o"
+".\objects\startup_lpc11xx.o"
+".\objects\system_lpc11xx.o"
+--strict --scatter ".\Objects\LPC1114.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LPC1114.map" -o .\Objects\LPC1114.axf
